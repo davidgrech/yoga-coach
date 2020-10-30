@@ -1,0 +1,131 @@
+.mychatcontainer{
+    height: 330px;
+    border: 2px solid blue;
+    padding:5px; 
+}
+
+.mychatwindow{
+    height:325px;
+    overflow:auto;
+    background:#fff;
+    padding: 5px;
+}
+
+.mychatmessage{
+    border: 1px solid blue;
+    margin-right: 4px;
+}
+
+.mychatmessage p{
+    margin-bottom: 2px;
+    padding-left: 3px;
+}
+
+.mychatmessage h6{
+    padding-left: 3px;
+}
+
+.myheadingclient{
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+.myheadingindex{
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+.myheading{
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+.myheadingbig{
+    padding-top: 140px;
+    padding-bottom: 30px;
+}
+
+.myheadingdash{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#myChart{
+    max-height: 500px;
+    max-width: 600px;
+}
+
+.mychartcontainer{
+    width:60%;
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+
+body{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#mycontainer{
+    width:55%;
+    margin: 0 auto 0 auto;
+}
+
+.dot {
+    height: 45px;
+    width: 45px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    color:white;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+
+@media only screen and (max-width: 600px) {
+
+    .mychartcontainer{
+        padding: 10px;
+        width:100%;
+        margin: 0 auto 0 auto;
+        position: relative;
+    }
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+    .myheadingclient{
+        padding-top: 120px;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+    .myheadingindex{
+        padding-top: 90px;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    
+    .myheading{
+        padding-top: 120px;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    
+    .myheadingbig{
+        padding-top: 140px;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    
+    .myheadingdash{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+
+}
