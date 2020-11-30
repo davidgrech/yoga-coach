@@ -3,14 +3,14 @@
 </p>
 
 
-<h3 align="center">Yoga Coach</h3>
+<h3 align="center">Yoga Personal Trainer</h3>
 
 <p align="center">
-  MSc Software Development Web Development Project. Grade: Distinction 75%. 
+  MSc Software Development, Web Development Project. Grade: Distinction, 75%. 
 </p>
 
 
-## yoga-personal-trainer
+## Yoga Personal Trainer
 
 Yoga personal trainer web application built with: PHP 7, MySQL, CSS 3, HTML 5, Bootstrap 4 and JavaScript.
   
