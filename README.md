@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/davidgrech/yoga-coach/blob/master/images/logotwo.png" width="150" height="150">
+  <img src="https://github.com/davidgrech/yoga-coach/blob/master/images/circlefour.jpg" width="150" height="150">
 </p>
 
 
@@ -12,9 +12,7 @@
 
 ## yoga-personal-trainer
 
-Yoga personal trainer web application.  
-
-Languages: PHP 7, MySQL, CSS 3, HTML 5, Bootstrap 4 and JavaScript.
+Yoga personal trainer web application built with: PHP 7, MySQL, CSS 3, HTML 5, Bootstrap 4 and JavaScript.
   
 **JavaScript libraries:**
 
