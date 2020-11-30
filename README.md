@@ -1,10 +1,20 @@
-# yoga-personal-trainer
+<p align="center">
+  <img src="https://github.com/davidgrech/yoga-coach/blob/master/images/logotwo.png" width="150" height="150">
+</p>
 
-MSc Software Development, Web Development Project, Distinction 75%. 
 
-Yoga personal trainer web app.
+<h3 align="center">Yoga Coach</h3>
 
-Languages: PHP, MySQLi, CSS 3, HTML 5, Bootstrap 4 and JavaScript
+<p align="center">
+  MSc Software Development Web Development Project. Grade: Distinction 75%. 
+</p>
+
+
+## yoga-personal-trainer
+
+Yoga personal trainer web application.  
+
+Languages: PHP 7, MySQL, CSS 3, HTML 5, Bootstrap 4 and JavaScript.
   
 **JavaScript libraries:**
 
@@ -12,7 +22,7 @@ Languages: PHP, MySQLi, CSS 3, HTML 5, Bootstrap 4 and JavaScript
 [dhtmlxscheduler.js]( https://dhtmlx.com/docs/products/dhtmlxScheduler/)  
 [Flatpickr.js]( https://github.com/flatpickr/flatpickr)  
 
-### Client features  
+## Client features  
 
  - update account details
  - bookable classes 
@@ -21,7 +31,7 @@ Languages: PHP, MySQLi, CSS 3, HTML 5, Bootstrap 4 and JavaScript
  - performance monitoring 
  - live chat with coach
  
-### Admin features  
+## Admin features  
 
  - register clients
  - chat to one, many or all clients
