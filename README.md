@@ -22,24 +22,24 @@ Yoga personal trainer web application built with: PHP 7, MySQL, CSS 3, HTML 5, B
 
 ## Client features  
 
- - update account details
- - bookable classes 
- - individual yoga program
- - submit program completion to coach
- - performance monitoring 
- - live chat with coach
+ - Update account details
+ - Bookable classes 
+ - Individual yoga program
+ - Submit program completion to coach
+ - Performance monitoring 
+ - Live chat with coach
  
 ## Admin features  
 
- - register clients
- - chat to one, many or all clients
- - create classes
- - view, change or delete classes
- - create client program
- - view all clients and their details
- - manage client program
- - view newly registered client history
- - edit contact page info
- - edit index page strings
- - edit index page images
+ - Register clients
+ - Chat to one, many or all clients
+ - Create classes
+ - View, change or delete classes
+ - Create client program
+ - View all clients and their details
+ - Manage client program
+ - View newly registered client history
+ - Edit contact page info
+ - Edit index page strings
+ - Edit index page images
 
